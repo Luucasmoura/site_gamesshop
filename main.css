@@ -21,7 +21,7 @@ body, input, textarea {
 /* ESTILO 2*/
 header {
     padding: 16px;
-    background-color: #182c61;
+    background-color: #941127;
     color: #ecf0f1;
 }
 
@@ -81,7 +81,7 @@ section h2 {
 }
 
 section {
-    color: #182c61;
+    color: #941127;
 }
 
 /* ESTILO 8*/
@@ -117,18 +117,18 @@ form textarea {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #941127;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #36519c;
+    background-color: #ca5d6b;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #941127;
 }
 
 .social-links img {
@@ -151,7 +151,11 @@ input:focus, textarea:focus {
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #941127;
     color: #ecf0f1;
     padding: 16px 0;
+}
+
+#about p {
+    margin-bottom: 8px;
 }
